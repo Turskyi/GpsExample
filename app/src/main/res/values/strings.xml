@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GpsExample</string>
+    <string name="gps_turned_on">GPS turned on</string>
+    <string name="gps_access">GPS access: %1$s</string>
+    <string name="open_gps_settings">Open GPS settings</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+</resources>
